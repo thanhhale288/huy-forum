@@ -1,246 +1,176 @@
-# Kịch bản 5' trình bày + 5' Q&A — Case The Forum
+# Script 5 phút — khớp `LeThanhHa_cuoikhoa.pptx.pdf`
 
-Dành cho `BK Fintech Cyber Clinic_Project Template.pptx` (15 slide).
+Người trình bày: **Lê Thanh Hà** (1 người → nói trọn 5', Q&A 5').
 
----
-
-## 0. Đối chiếu với hướng dẫn BTC — kết luận
-
-| Yêu cầu BTC | Kịch bản cũ | Mức khớp | Hướng chỉnh |
-|-------------|-------------|----------|-------------|
-| 5' trình bày **chọn phần nổi bật** | Cố nói gần đủ 15 slide | ❌ Chưa | Chỉ **nói** Mục I + IV→VII |
-| Làm rõ Mục I (DN là gì, vấn đề gì) | Có (~28s) | ✅ Ổn | Giữ, siết còn ~35–40s gồm câu "vấn đề nhóm đang giải quyết" |
-| Lược bỏ / ngắn Mục II, III | Vẫn nói ~44s (slide 3–4) | ❌ Sai | **Không nói** hoặc 1 câu dẫn; để BGK đọc slide |
-| Tập trung Mục IV trở đi, đặc biệt giải pháp | Giải pháp chỉ ~80s / 5' | ⚠️ Yếu | Đẩy giải pháp + lộ trình lên **~2'20"** |
-| 5' Q&A = **50% điểm** | Chỉ 3 câu dự phòng | ❌ Thiếu | Xây bộ Q&A đầy đủ, coi là nửa trận |
-
-**Verdict ngắn:** Nội dung điền slide vẫn dùng được. **Cách nói 5 phút và phần Q&A phải viết lại** theo BTC.
+**Quy tắc:** Nói đúng chữ/ảnh trên slide. Mục I **phải chỉ vào sơ đồ 5 bước** (ảnh dưới slide 2). Không đọc H1/T4/P2. Slide 7–9 **đã có đủ KRI** (chữ nằm trong ảnh) — **không đọc** trong 5', để BGK xem / Q&A.
 
 ---
 
-## 1. Chiến lược 10 phút (đúng BTC)
+## Band điểm → thời gian nói
+
+| Tiêu chí | Điểm | Slide | Thời gian | Việc phải “ăn” trong lời nói |
+|----------|------|-------|-----------|------------------------------|
+| 1. Phân tích vấn đề | **20** | 5–6 (+ câu gốc rễ) | **~70s** | Ưu tiên, không liệt kê; nói **nguyên nhân gốc rễ** |
+| 2. Chất lượng giải pháp | **30** | 10–12 | **~1'50"** | Khả thi, SME, có **đo được**, có AI + phân loại/chia sẻ dữ liệu |
+| 3. Tư duy chiến lược | **20** | 13 | **~40s** | 90 ngày = ngắn hạn; chi phí ~0; không cần IT |
+| 4. Lập luận | **15** | Xuyên suốt + Q&A | — | Dùng số trên slide 2 (70–100 LĐ, 20–50 tỷ) |
+| 5. Thuyết trình | **15** | Đúng 5' | buffer 10s | Không cháy giờ |
+| **Cộng** | 100 | | **~4'50"** | |
+
+BTC: Mục I nói rõ DN + vấn đề; II–III **không đọc**; IV trở đi, **giải pháp nặng nhất**.
 
 ```
-10 phút = 5' thuyết trình (50%) + 5' Q&A (50%)
+0:00  Slide 1 chào
+0:05  Slide 2  Mục I          ~40s
+0:45  → nhảy Slide 5 (bỏ 3, 4)
+0:45  Slide 5  Mục IV         ~25s
+1:10  Slide 6  Mục V          ~45s     ← 20đ phân tích
+1:55  Slide 10–12 Mục VI      ~1'50"   ← 30đ giải pháp
+3:45  Slide 13 lộ trình       ~40s     ← 20đ chiến lược
+4:25  Slide 14 IR             ~20s
+4:45  Slide 15 chốt           ~10s
+4:55  DỪNG
 ```
 
-### 1.1 Slide vẫn điền đủ 15 trang — nhưng **chỉ nói ~8–9 slide**
+---
 
-| Mục template | Slide | Trên deck | Trong lời nói 5' |
-|--------------|-------|-----------|------------------|
-| Bìa | 1 | Có | 5s chào |
-| **I. Tình hình công ty** | 2 | Có | **Nói ~35–40s** |
-| II. Rủi ro công ty khác | 3 | Có (đầy đủ) | **Lướt / bỏ nói** |
-| III. Pháp luật | 4 | Có (đầy đủ) | **Lướt / bỏ nói** |
-| **IV. Tài sản số** | 5 | Có | **Nói ~25s** |
-| **V. Vấn đề tồn đọng** | 6 (+7–9 để BGK đọc) | Có | **Nói chủ yếu slide 6 (~40s)**; 7–9 để BGK đọc |
-| **VI. Giải pháp + kết quả** | 10–13 | Có | **Nói ~2'00–2'20"** |
-| **VII. Kịch bản ứng phó** | 14 | Có | **Nói ~25s** |
-| Cảm ơn | 15 | Có | 5s |
+## SCRIPT ĐỌC (đúng slide hiện tại)
 
-> Logic BTC: Mục II–III "BGK sẽ tham khảo trực tiếp trên slide" → **điền đủ chữ, đừng đọc**. Thời gian nói dồn vào IV→VII.
+### 0:00 · Slide 1 · 5s
 
-### 1.2 Phân bổ giây (mục tiêu 4:50, dư 10s buffer)
-
-| Phần nói | Thời gian | Slide hiện |
-|----------|-----------|------------|
-| Chào + Mục I (DN + vấn đề đang giải quyết) | **40s** | 1→2 |
-| Mục IV (tài sản số ưu tiên) | **25s** | 5 |
-| Mục V (khung 3 nhóm + ưu tiên) | **40s** | 6 |
-| Mục VI (4 giải pháp + lộ trình 90 ngày) | **2'15"** | 10→13 |
-| Mục VII (1 kịch bản IR) | **25s** | 14 |
-| Chốt + cảm ơn | **10s** | 15 |
-| **Tổng** | **~4'55"** | — |
-
-**Không nói:** slide 3, 4, 7, 8, 9 (trừ khi BGK hỏi trong Q&A).
-
-### 1.3 Sợi chỉ đỏ cả bài (1 câu, lặp lại)
-
-> Học phí The Forum đi qua **tư vấn viên + chuyển khoản**, không qua cổng thanh toán khép kín → kẻ tấn công **không cần phá hệ thống**, chỉ cần **giả danh trung tâm**. Vì vậy nhóm ưu tiên **rủi ro con người + quy trình thanh toán**, rồi mới đến kỹ thuật.
-
-Câu này = Mục I (vấn đề) + Mục V (ưu tiên) + Mục VI (giải pháp 2). Dùng lại khi bị hỏi trong Q&A.
+> Chào thầy cô. Em là Lê Thanh Hà, trình bày case **The Forum — hệ thống trung tâm Anh ngữ**.
 
 ---
 
-## 2. Lời thoại 5 phút (chỉ phần NÓI)
+### 0:05 · Slide 2 · Mục I · 40s  ← BTC: DN là gì + vấn đề gì
 
-> Text điền trên slide: giữ nguyên file `Kich_ban_slide_5phut_The_Forum.md` phần **[SLIDE]** (điền đủ II–III cho BGK đọc). Phần dưới đây **thay thế toàn bộ lời thoại cũ**.
+*(Tay chỉ bảng trái, rồi chỉ hàng 5 bước dưới cùng.)*
 
-### Khối A — Mục I · ⏱ 40s · Slide 1–2
-
-> "Chào thầy cô. Nhóm em hỗ trợ **The Forum** — hệ thống trung tâm Anh ngữ, pháp nhân Công ty TNHH The Forum Education Vietnam, **9 cơ sở** tại Vũng Tàu, Bà Rịa và TP.HCM, quy mô **SME**.
+> The Forum là **Công ty TNHH The Forum Education Vietnam**, thành lập tháng 1/2019, vốn tư nhân, CEO Nguyễn Hoàng Huy. Dạy **IELTS tại trung tâm và online**. Quy mô: khoảng **70–100 lao động**, **40–60 máy**, doanh thu 2025 khoảng **20–50 tỷ** — **DNNVV vừa**.
 >
-> Khách hàng là học viên và phụ huynh, **có cả trẻ em dưới 16 tuổi**. Quy trình thu học phí: form website → tư vấn viên gọi lại → ký hợp đồng → **chuyển khoản**, khoảng 2,2–6,6 triệu/khóa.
+> Quy trình 5 bước trên slide: **Lead form/livestream → Tư vấn & hẹn test → Test đầu vào → Lộ trình & học phí → Cam kết & thủ tục**. Điểm ATTT nằm ở **bước 1** (PII vào từ form) và **bước 4** (học phí qua QR/chuyển khoản).
 >
-> **Vấn đề nhóm đang giải quyết:** kênh thu tiền và kênh truyền thông phụ thuộc người + tin nhắn, nên rủi ro lớn nhất không phải hack server, mà là **giả danh trung tâm thu học phí** và **rò rỉ dữ liệu học viên–phụ huynh**."
-
-*(Sang slide 5 — bỏ qua 3, 4)*
-
-### Khối B — Mục IV · ⏱ 25s · Slide 5
-
-> "Nhóm kiểm kê tài sản số theo 3 bước Liệt kê – Phân loại – Đánh giá, ưu tiên 5 tài sản: **email công ty**, **CSDL học viên–phụ huynh**, **Fanpage/TikTok**, **tài khoản ngân hàng–hồ sơ học phí**, và **kho bài giảng**. Ba tài sản đầu nếu mất thì tuyển sinh dừng ngay."
-
-### Khối C — Mục V · ⏱ 40s · Slide 6
-
-> "Nhóm không liệt kê rủi ro rời rạc mà dùng **khung 3 nhóm của chương trình** — Con người, Kỹ thuật, Quy trình & Tuân thủ — gắn mã H / T / P và chỉ số đo được.
->
-> **Ưu tiên 1 – Con người:** giả mạo thu học phí, nhân viên chưa xác minh, nhân sự nghỉ chưa thu hồi quyền.
-> **Ưu tiên 2 – Kỹ thuật:** tài khoản quản trị chưa MFA, ransomware qua Drive Sync, WiFi 9 cơ sở chưa tách mạng khách.
-> **Ưu tiên 3 – Quy trình:** chưa có luồng đồng ý cho học viên dưới 16 tuổi, chưa bắt buộc xác minh ngoài kênh khi đổi STK, backup chưa từng test khôi phục.
->
-> Chi tiết từng nhóm có trên slide tiếp theo để thầy cô tham khảo."
-
-*(Có thể lướt nhanh 7–9 trong 2–3s nếu cần, không đọc)*
-
-### Khối D — Mục VI · ⏱ 2'15" · Slide 10–13 ⭐ phần nặng nhất
-
-**Giải pháp 1 (~30s)**
-> "Một: **khóa cổng danh tính**. Bật MFA cho email, Fanpage, TikTok, ngân hàng; thu hồi quyền trong 24 giờ khi nghỉ việc — Disable trước, Delete sau. Chi phí gần bằng 0. Mục tiêu: **100% tài khoản trọng yếu có MFA, 0 tài khoản mồ côi**."
-
-**Giải pháp 2 (~35s)**
-> "Hai: **chặn giả mạo thu học phí** — đánh trực diện rủi ro số 1. Công bố **một** số tài khoản duy nhất trên web và tại quầy; cam kết công khai *trung tâm không thu học phí qua tin nhắn riêng*; mọi yêu cầu đổi STK phải **xác thực ngoài kênh** — gọi lại số nội bộ đã biết; tách người tạo lệnh / duyệt / chuyển tiền."
-
-**Giải pháp 3 (~30s)**
-> "Ba: **bảo vệ dữ liệu học viên**. Chia sẻ Drive theo người cụ thể, có hạn; bổ sung đồng ý phụ huynh vào hợp đồng nhập học cho học viên dưới 16 tuổi; quy tắc AI: che tên, SĐT trước khi hỏi. Đây vừa là bảo mật vừa là **tuân thủ Luật BVDLCN từ 2026**."
-
-**Giải pháp 4 + lộ trình (~40s)**
-> "Bốn: **backup 3-2-1** và test restore mỗi tháng — vì cloud đồng bộ không phải bản cứu hộ.
->
-> Lộ trình 90 ngày: tháng 1 chặn chảy máu — MFA, thu hồi quyền, công bố STK; tháng 2 đóng cửa mở — tách WiFi khách 9 cơ sở, dựng 3-2-1; tháng 3 vận hành — test restore, quy tắc AI, diễn tập sự cố. Toàn bộ phù hợp SME **không có IT chuyên trách**."
-
-### Khối E — Mục VII · ⏱ 25s · Slide 14
-
-> "Kịch bản ứng phó nhóm chọn: **Fanpage bị chiếm, đăng bài thu học phí giả**. 0–5 phút báo quản lý; 5–15 phút thu hồi quyền; 15–30 phút cảnh báo phụ huynh qua **kênh phụ** — website, Zalo lớp, hotline — vì kênh chính đã mất. Nguyên tắc: không hoảng, không tự sửa, không xóa bằng chứng."
-
-### Khối F — Chốt · ⏱ 10s · Slide 15
-
-> "Tóm lại: ưu tiên đúng rủi ro gắn mô hình kinh doanh, giải pháp đo được, chi phí thấp, làm được trong 90 ngày. Nhóm em xin hết phần trình bày."
+> **Vấn đề em giải quyết:** giả mạo thương hiệu để thu tiền đúng khâu học phí, và rò rỉ dữ liệu học viên — có trẻ em.
 
 ---
 
-## 3. Phần Q&A 5 phút = 50% điểm — chuẩn bị thế nào
+### 0:45 · Nhảy Slide 5 · Mục IV · 25s
 
-### 3.1 Vai trò
+*(Không dừng slide 3–4. Nếu BGK lướt: “Case thật và căn cứ pháp lý em để trên slide 3 và 4.”)*
 
-| Người | Việc trong Q&A |
-|-------|----------------|
-| 1 người chủ trì | Nhận câu hỏi, phân ai trả lời, chốt 1 câu |
-| 1 người chuyên Mục I–V (phân tích) | Trả lời "vì sao ưu tiên", khung H/T/P, tài sản số |
-| 1 người chuyên Mục VI–VII (giải pháp) | Trả lời triển khai, chi phí, lộ trình, IR |
-| 1 người pháp lý / dữ liệu | Trả lời Luật BVDLCN, trẻ em, consent, AI |
-
-Không để 1 người độc diễn cả 5 phút Q&A.
-
-### 3.2 Quy tắc trả lời (Buổi 7)
-
-1. **Nhắc lại câu hỏi** trong 3 giây → chứng tỏ nghe đúng.
-2. **Trả lời 20–40 giây**, 1 luận điểm + 1 bằng chứng từ case.
-3. **Chưa chắc:** *"Em cần kiểm tra lại số liệu nội bộ và phản hồi sau"* — **không bịa**.
-4. Nếu hỏi Mục II/III: dẫn slide *"Phần này nhóm đã tổng hợp trên slide 3/4, điểm chính là…"* — nói 15–20s rồi dừng.
-
-### 3.3 Ngân hàng câu hỏi BGK (ưu tiên học thuộc)
-
-#### Nhóm A — Mục I (DN & vấn đề)
-
-**A1. Vì sao chọn The Forum? Có phải SME không?**
-> "Vì hội đủ 4 yếu tố: dữ liệu học viên có trẻ em, thu học phí qua chuyển khoản, 9 cơ sở phân tán, thương hiệu gắn MXH. Pháp nhân TNHH giáo dục, chuỗi khu vực — **rất có khả năng là SME nhỏ–vừa**; số lao động BHXH và doanh thu chưa công bố nên nhóm chưa chốt tầng siêu nhỏ/nhỏ/vừa."
-
-**A2. Vấn đề cốt lõi nhóm giải quyết là gì — một câu?**
-> "Giảm rủi ro **giả danh thu học phí** và **rò rỉ PII học viên**, trong điều kiện SME không có IT chuyên trách."
-
-#### Nhóm B — Phân tích (Mục IV–V) — ăn điểm "ưu tiên, không liệt kê"
-
-**B1. Vì sao rủi ro con người xếp trên kỹ thuật?**
-> "Vì tiền học phí đi qua người và tin nhắn. Kẻ tấn công giả danh trung tâm là đủ — không cần xâm nhập server. Đó là nguyên nhân gốc rễ gắn mô hình kinh doanh."
-
-**B2. Nhóm lấy khung phân loại nào?**
-> "Khung 3 nhóm Con người – Kỹ thuật – Quy trình & Tuân thủ của chương trình, gắn mã H/T/P và KRI đo được — không chấm điểm cảm tính."
-
-**B3. Tài sản nào quan trọng nhất?**
-> "Email công ty và Fanpage/TikTok — vì là chìa khóa reset dịch vụ và kênh tuyển sinh; tiếp theo là CSDL học viên vì có PII và trẻ em."
-
-**B4. Đã khảo sát thật chưa? Số liệu lấy đâu?**
-> "Hồ sơ từ thông tin công khai và phân tích mô hình ngành. Mục chưa xác minh nhóm ghi giả định và có bộ câu hỏi để xác minh khi làm việc trực tiếp. Nhóm **không bịa** số liệu nội bộ."
-
-#### Nhóm C — Giải pháp & triển khai (Mục VI) — nửa điểm Q&A thường nằm đây
-
-**C1. SME không có IT thì ai làm?**
-> "Một người kiêm nhiệm: kiểm tra log backup sáng thứ Hai hàng tuần; MFA và tách WiFi là cấu hình một lần; phần còn lại là quy định nội bộ và đào tạo ngắn."
-
-**C2. Chi phí bao nhiêu?**
-> "Gần như cấu hình và quy trình — MFA, OOB, quy tắc chia sẻ Drive, IR Card — **chi phí phần mềm gần 0**. Có thể thêm ổ cứng offline hoặc dùng cloud sẵn có."
-
-**C3. Vì sao không đề xuất SOC / EDR đắt tiền?**
-> "Vì không khớp nguồn lực SME và không giải quyết rủi ro số 1 là giả danh thu học phí. Nhóm chọn giải pháp **đúng ưu tiên + khả thi 90 ngày**."
-
-**C4. Làm sao đo thành công sau 90 ngày?**
-> "MFA 100% tài khoản trọng yếu; 0 tài khoản mồ côi; 9/9 cơ sở tách WiFi khách; 1 lần restore test có ký xác nhận; 100% đổi STK có xác minh ngoài kênh."
-
-**C5. Xác thực ngoài kênh cụ thể làm thế nào?**
-> "Nhận yêu cầu đổi STK qua email/Zalo → **không chuyển ngay** → gọi lại số trong danh bạ nội bộ đã lưu sẵn → chỉ chuyển khi người có thẩm quyền xác nhận."
-
-#### Nhóm D — Pháp lý / dữ liệu (BGK hay hỏi dù bạn không nói Mục III)
-
-**D1. Luật nào liên quan nhất?**
-> "Luật BVDLCN 91/2025 — consent, quyền xóa trong thời hạn ngắn, phạt tới 5% doanh thu; Luật An ninh mạng 2025 — nghĩa vụ bảo vệ trẻ em trên mạng. Chi tiết trên slide 4."
-
-**D2. Học viên dưới 16 tuổi xử lý thế nào?**
-> "Bổ sung mục đồng ý của phụ huynh/người giám hộ vào hợp đồng nhập học; ảnh/video dùng marketing xin phép riêng; không đưa PII vào AI công cộng."
-
-**D3. Giáo viên dùng ChatGPT chấm Writing được không?**
-> "Được, nếu **mask** tên và SĐT trước — thay bằng [TÊN HỌC VIÊN] — rồi điền lại sau. Cấm dán bài kèm thông tin định danh."
-
-#### Nhóm E — Sự cố (Mục VII)
-
-**E1. Fanpage mất rồi thì thông báo phụ huynh bằng gì?**
-> "Kênh phụ: website, hotline, Zalo lớp, email phụ huynh. Trong IR plan phải có sẵn mẫu cảnh báo và người duy nhất được phát ngôn."
-
-**E2. Có nên trả tiền chuộc nếu ransomware?**
-> "Không. Trả tiền không đảm bảo lấy lại dữ liệu và nuôi tội phạm. Ưu tiên cách ly, giữ bằng chứng, restore từ bản sạch đã test."
-
-#### Nhóm F — Câu "bẫy" hay gặp
-
-**F1. Nhóm chắc gì The Forum đang yếu MFA / WiFi?**
-> "Nhóm trình bày **rủi ro điển hình của mô hình chuỗi trung tâm**, không kết luận lỗ hổng đã kiểm chứng tại The Forum. Khi làm việc trực tiếp sẽ xác minh bằng checklist."
-
-**F2. Em nghĩ thế nào về scandal truyền thông của founder?**
-> "Nhóm chỉ dùng bối cảnh đó để nhắc: tư vấn ATTT phải **trẻ nhưng không non**, nói ngôn ngữ giảm rủi ro vận hành, không phán xét. Không phân tích đời tư."
+> Em kiểm kê tài sản số theo 3 bước **liệt kê – phân loại – đánh giá**, xếp 5 tài sản từ cao xuống thấp: **email công ty**, **CSDL học viên và phụ huynh** — có dữ liệu trẻ em, **Fanpage–TikTok–YouTube**, **tài khoản ngân hàng và hồ sơ học phí**, rồi **kho bài giảng**. Ba tài sản đầu nếu mất thì tuyển sinh và uy tín dừng ngay.
 
 ---
 
-## 4. Checklist trước giờ thi
+### 1:10 · Slide 6 · Mục V · 45s  ← 20đ: ưu tiên + gốc rễ
 
-### Deck (điền sẵn, BGK đọc)
-- [ ] Slide 2 (Mục I) rõ: ngành, 9 cơ sở, SME, quy trình thu học phí, **1 câu vấn đề**
-- [ ] Slide 3–4 (Mục II–III) **điền đủ** dù không nói
-- [ ] Slide 5–6 có ưu tiên tài sản + khung H/T/P
-- [ ] Slide 10–13 mỗi giải pháp có **kết quả đo được**
-- [ ] Slide 13 có lộ trình Tháng 1–2–3
-- [ ] Slide 14 có 1 kịch bản IR theo mốc phút
-- [ ] Dòng chú thích nhỏ: một số mục là giả định theo mô hình ngành
-
-### Thuyết trình 5'
-- [ ] Chạy thử ≥ 3 lần, dừng ở **4:45–4:55**
-- [ ] Đã luyện **nhảy slide** 2→5 (bỏ 3–4) mượt
-- [ ] Không đọc slide 7–9
-- [ ] Có câu sợi chỉ đỏ (học phí qua chuyển khoản → ưu tiên con người)
-
-### Q&A 5' (nửa điểm)
-- [ ] Phân vai trả lời A/B/C/D
-- [ ] Học thuộc nhóm câu B + C (phân tích + giải pháp)
-- [ ] Có câu thoát khi chưa chắc số liệu
-- [ ] Không tranh luận với BGK; trả lời ngắn, dẫn slide khi cần
+> Em không liệt kê rời rạc mà dùng **mô hình 3 cấp** trên slide: **con người, kỹ thuật, quy trình và tuân thủ**.
+>
+> **Ưu tiên 1 — con người:** giả mạo trung tâm qua email để thu học phí; nhân viên chưa có kịch bản xác minh ngoài kênh; nhân sự nghỉ chưa thu hồi quyền.
+>
+> **Ưu tiên 2 — kỹ thuật:** tài khoản admin chưa MFA; ransomware lây qua Drive Sync; WiFi các cơ sở dùng chung và phần mềm không bản quyền.
+>
+> **Ưu tiên 3 — quy trình:** chưa có luồng đồng ý cho học viên dưới 16 tuổi; chưa bắt buộc xác minh khi đổi số tài khoản; backup chưa từng test khôi phục.
+>
+> **Gốc rễ:** học phí chảy ở **bước 4** qua người + QR — kẻ tấn công **không cần phá hệ thống**, chỉ cần **giả danh The Forum**.
 
 ---
 
-## 5. Tóm tắt thay đổi so với bản trước
+### 1:55 · Slide 10 · Giải pháp 1 · 35s  ← bắt đầu 30đ
 
-| Hạng mục | Bản cũ | Bản khớp BTC |
-|----------|--------|--------------|
-| Mục II–III | Nói ~44s | **Không nói** (slide vẫn đầy) |
-| Mục I | ~28s | **~40s** + chốt "vấn đề đang giải quyết" |
-| Mục IV–V | Nói chi tiết 7–9 | **Nói 5+6**; 7–9 để đọc |
-| Mục VI | ~80s | **~2'15"** |
-| Q&A | 3 câu phụ | **Ngân hàng A–F**, phân vai, = 50% điểm |
+> Giải pháp một: **khóa cổng danh tính**. Hiện trạng: email, Fanpage, TikTok, ngân hàng chủ yếu chỉ có mật khẩu; nhân sự nghỉ quyền chưa thu hồi.
+>
+> Việc làm: bật **MFA** cho các tài khoản đó; lập danh sách admin, gỡ tài khoản không dùng; nghỉ việc thì **vô hiệu hóa trong 24 giờ** — disable trước, xóa sau.
+>
+> Kết quả đo: **100% tài khoản trọng yếu có MFA, 0 tài khoản mồ côi**. Chi phí gần 0, làm trong 1–2 tuần — khớp SME không có IT.
 
-**Kết luận:** Đã phù hợp hướng BTC nếu nhóm **nói theo phân bổ mới** và **chuẩn bị Q&A như nửa bài thi**. Chỉ điền slide đẹp mà vẫn đọc tuần tự 15 trang trong 5 phút thì **chưa** đạt yêu cầu BTC.
+---
+
+### 2:30 · Slide 11 · Giải pháp 2 · 40s
+
+> Giải pháp hai đánh **rủi ro số 1**: chặn giả mạo thu học phí. Phụ huynh khó phân biệt kênh thật–giả; chưa có quy trình bắt buộc khi đổi số tài khoản.
+>
+> Việc làm: công bố **duy nhất một số tài khoản** trên website và tại quầy; cam kết công khai *trung tâm không thu học phí qua tin nhắn riêng*; đổi STK thì phải **gọi lại số nội bộ đã biết trước**; tách người tạo lệnh, người duyệt, người chuyển tiền.
+>
+> Kết quả: **100% giao dịch đổi STK được xác minh ngoài kênh**, làm ngay tuần đầu tháng 1.
+
+---
+
+### 3:10 · Slide 12 · Giải pháp 3 · 35s  ← tiêu chí “AI + phân loại dữ liệu + kiểm soát”
+
+> Giải pháp ba: **bảo vệ dữ liệu học viên**. File danh sách dễ để “ai có link cũng xem”; chưa rõ đồng ý với học viên dưới 16 tuổi; nguy cơ dán thông tin học viên vào AI khi chấm bài.
+>
+> Việc làm: Drive chỉ chia **người cụ thể**, có hạn truy cập; hợp đồng nhập học thêm **đồng ý phụ huynh** với Kid/Teen; quy tắc AI **che tên, SĐT trước** — mask, rồi hỏi, rồi điền lại. Giáo viên **vẫn dùng được AI**, không cấm.
+>
+> Kết quả: **0 file danh sách công khai**; **100% hồ sơ dưới 16 tuổi có đồng ý phụ huynh** — trước khi Luật BVDLCN siết từ 01/2026.
+
+---
+
+### 3:45 · Slide 13 · Giải pháp 4 + lộ trình · 40s  ← 20đ chiến lược
+
+> Cuối cùng: **backup 3-2-1**. Dữ liệu đang nằm cloud đồng bộ, chưa có bản offline, chưa từng test khôi phục. Làm 3 bản, 2 loại phương tiện, 1 bản offline; mỗi tháng restore 3–5 file trên máy khác, ký xác nhận.
+>
+> **Lộ trình 90 ngày:** tháng 1 MFA, thu hồi quyền, công bố STK; tháng 2 tách WiFi khách các cơ sở và dựng 3-2-1; tháng 3 test restore, quy tắc AI, diễn tập sự cố. Toàn bộ **chi phí thấp**, phù hợp SME **không có IT chuyên trách**.
+
+---
+
+### 4:25 · Slide 14 · 20s
+
+> Kịch bản ứng phó em chọn: **Fanpage bị chiếm, đăng bài thu học phí giả**. Năm phút đầu báo quản lý, không tự xử, không xóa bằng chứng. Mười lăm phút: thu hồi quyền, đổi mật khẩu. Ba mươi phút: **cảnh báo phụ huynh qua kênh phụ** — website, hotline, Zalo lớp — vì kênh chính đã mất. Không trả tiền chuộc.
+
+---
+
+### 4:45 · Slide 15 · 10s
+
+> Tóm lại: ưu tiên đúng rủi ro gắn mô hình The Forum, giải pháp đo được, triển khai được trong 90 ngày. Em xin hết phần trình bày.
+
+**DỪNG. Không nói thêm.**
+
+---
+
+## Câu chốt nếu bị cắt giờ (bắt buộc còn 3 câu)
+
+1. The Forum = DN vừa, IELTS, 70–100 người — tiền và uy tín đi qua Fanpage + chuyển khoản.  
+2. Ưu tiên con người: giả mạo thu học phí.  
+3. Làm MFA, xác minh ngoài kênh, bảo vệ dữ liệu trẻ em, backup 3-2-1 trong 90 ngày.
+
+---
+
+## Q&A 5 phút — bám đúng slide (50% điểm)
+
+**Nguồn số liệu (slide 2):** 70–100 LĐ, 20–50 tỷ, 40–60 máy. Nếu hỏi chắc không: *“Đây là số liệu nhóm dùng trên slide; nếu sai lệch so với sổ BHXH, phân tầng SME có thể dịch nhưng giải pháp không đổi.”*
+
+| Câu hay gặp | Trả lời ngắn (dẫn slide) |
+|-------------|--------------------------|
+| Có phải SME? | 70–100 LĐ → **không phải DN nhỏ** (ngưỡng nhỏ dịch vụ ≤50 LĐ); DT 20–50 tỷ < 300 tỷ → **DN vừa**. |
+| Vì sao ưu tiên con người? | Slide 6 + mô hình thu tiền qua kênh số/người; case slide 3 SBHN cùng kiểu. |
+| Case slide 3 liên quan gì? | **SHE by Hoa Nguyen**, Thanh Niên 8/2025: Fanpage giả, khách mất >20 triệu, DN mất uy tín + CSKH quá tải — đúng Fanpage The Forum. |
+| Luật nào? | Slide 4: BVDLCN 91/2025 (trẻ em, 5% DT); ANM 2025; NĐ 131 + Đ.225 (phần mềm không bản quyền). Không đọc 5'; BGK xem slide. |
+| Không có IT thì ai làm? | Slide 10–13: cấu hình một lần + 1 người kiêm nhiệm kiểm tra backup. |
+| Cấm AI à? | Slide 12: **không cấm** — mask rồi mới hỏi. |
+| Chi phí? | Các slide giải pháp ghi **gần 0**. |
+| Đo thành công thế nào? | MFA 100%; 0 TK mồ côi; 100% đổi STK OOB; 0 file Drive công khai; 1 lần restore/tháng. |
+| Fanpage mất rồi báo phụ huynh bằng gì? | Slide 14: kênh phụ — website, hotline, Zalo lớp, email. |
+| Có khảo sát trong DN chưa? | Phân tích theo mô hình + số trên slide 2; rủi ro slide 6 là **tồn đọng điển hình cần xác minh khi triển khai**, không kết luận đã audit xong. |
+
+---
+
+## Lỗi trên file PDF — đừng đọc thành lời
+
+| Slide | Vấn đề | Khi nói |
+|-------|--------|---------|
+| **6** | Nếu còn lỗi gõ *yêu tố / tuổii / bắc buộc* | Đọc đúng: *yếu tố, tuổi, bắt buộc* |
+| **7–9** | Đủ 3 thẻ KRI/slide (chữ trong ảnh) | Không đọc 5'; Q&A dẫn “KRI trên slide 7/8/9” |
+| **2** | Sơ đồ 5 bước là **ảnh** | Phải chỉ tay + nói B1 và B4 |
+| **13** | Còn chữ `(P1, T1)` | Bỏ, nói “chưa từng test khôi phục” |
+
+---
+
+## Checklist trước khi lên
+
+- [ ] Đọc script **3 lần bấm giờ**, dừng **4:50–4:55**
+- [ ] Luyện **nhảy 2 → 5** (không pause slide 3–4)
+- [ ] Slide 2: chỉ được **bước 4 Lộ trình & học phí**
+- [ ] Thuộc 3 số: **70–100 LĐ · 20–50 tỷ · 40–60 máy**
+- [ ] Thuộc 4 kết quả đo: MFA 100% · OOB 100% · 0 file công khai · restore/tháng
+- [ ] Không giải thích ISO/H-T-P trừ khi bị hỏi (slide 6 không ghi H T P)

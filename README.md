@@ -8,7 +8,8 @@ Hồ sơ case study và kịch bản thuyết trình 5' + Q&A 5' cho hệ thốn
 |------|----------|
 | `Case_study_The_Forum.md` | Toàn cảnh DN, tài sản số, rủi ro theo 7 buổi |
 | `Text_tung_slide_The_Forum.md` | Text điền từng slide (template 15 trang) |
-| `Kich_ban_slide_5phut_The_Forum.md` | Phân bổ thời gian + lời thoại + ngân hàng Q&A |
+| `Kich_ban_slide_5phut_The_Forum.md` | Script 5' + Q&A 5', bám band điểm BTC |
+| `LeThanhHa_cuoikhoa.pdf` | Deck thuyết trình hiện tại |
 | `Tong_ket_tat_ca_cac_buoi.md` | Tổng kết nội dung khóa Cyber Clinic |
 | `BK Fintech Cyber Clinic_Project Template.pptx` | Template slide BTC |
 
